@@ -28,7 +28,7 @@ Esquema gráfico de las zonas:
 
 ### Trabajar con Git y GitHub
 
-Vamos a empezar a trabajar con Git y GitHub. Para ello necesitamos:
+Vamos a empezar a trabajar con Git y GitHub. Para ello necesitamos: 
 
 * Cuenta creada en GitHub (Crear [aquí](https://github.com/)).
 * Instalar Git en local para montar nuestro repositorio local (Descargar [aquí](https://git-scm.com/downloads)).
