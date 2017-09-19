@@ -22,7 +22,7 @@ A diferencia de SVN pude aprender que Git dispone de diferentes zonas de trabajo
 * Remote repo: Es el repositorio remoto. Puede ser otro repositorio Git que tengamos en otro PC o un repositorio en la nube como puede ser GitHub o BitBucker. Aquí será donde se realicen los merge con otros usuarios que colaboren en el proyecto.
 
 Esquema gráfico de las zonas:
-
+ 
 ![](git-zonas.jpg)
 
 
