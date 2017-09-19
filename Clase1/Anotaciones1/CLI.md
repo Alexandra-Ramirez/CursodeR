@@ -29,7 +29,7 @@ El comando `apt-get` también funciona para desinstalar software añadiendo el s
 
 ```
 sudo apt-get remove --purge firefox
-```
+``` 
 
 ### Descargas
 
