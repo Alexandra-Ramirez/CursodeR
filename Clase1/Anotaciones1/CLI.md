@@ -27,7 +27,7 @@ sudo apt-get install r-base
 
 El comando `apt-get` también funciona para desinstalar software añadiendo el sufijo `remove`, y si además añadimos la orden `--purge` podemos eliminar todos los datos de un programa, para que no quede rastro de él en nuestro sistema.
 
-```
+``` 
 sudo apt-get remove --purge firefox
 ``` 
 
