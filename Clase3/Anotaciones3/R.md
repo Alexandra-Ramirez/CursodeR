@@ -25,7 +25,7 @@ Necesitaremos ejecutar la actualización después de esto para incluir los manif
 
 ```
 sudo apt-get update
-```
+``` 
 
 Ahora estamos listos para instalar R:
 
