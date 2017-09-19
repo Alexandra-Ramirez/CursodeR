@@ -3,7 +3,7 @@ def dia_1(dia):
 	   return ":("
 	   if dia != "lunes":
 		   return ":D"
-
+  
    print(dia_1("domingo"))
    print(diaa_1("lunes"))
 
